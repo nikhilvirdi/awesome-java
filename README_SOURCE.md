@@ -1163,6 +1163,7 @@ _Provide environments to run tests for a specific use case._
 - [BitDive Java Agent](https://github.com/bitDive/java-producer) - Java agent that captures runtime traces, SQL queries and HTTP payloads for BitDive testing.
 - [JUnit](https://github.com/junit-team/junit-framework) - Common testing framework.
 - [jqwik](https://github.com/jqwik-team/jqwik) - Engine for property-based testing built on JUnit 5.
+- [JHusk](https://github.com/nikhilvirdi/JHusk) - Property-based testing library with byte-stream shrinking, failure persistence, and native JUnit 5 integration.
 - [PIT](https://github.com/hcoles/pitest) - Fast mutation-testing framework for evaluating fault-detection abilities of existing JUnit or TestNG test suites.
 - [Robolectric](https://github.com/robolectric/robolectric) - Runs Android tests on the JVM without an emulator or device.
 - [selenium](https://github.com/SeleniumHQ/selenium) - Browser automation framework and ecosystem.
